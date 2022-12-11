@@ -15,7 +15,7 @@
 
 - <b>JavaScript</b>
 
-- <b/>HTML/CSS</b>
+- <b/>HTML/CSS3</b>
 
 - Java
 
