@@ -8,7 +8,7 @@
   
 - <b>Python</b>
  
-  - [Tkinter Maze](https://github.com/darylbonny/FundMe)
+  - [Tkinter Maze](https://github.com/darylbonny/Tkinter-Maze)
 
 <h2>🌱 I’m currently learning </h2>
 
