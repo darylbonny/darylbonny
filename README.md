@@ -1,7 +1,12 @@
 <h1>Hi, I'm Daryl! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+ 
 <h2>👨‍💻 Software Development Projects:</h2>
+ 
+- <b>FundMe Smart Contract</b>
+  
+  - [FundMe](https://github.com/darylbonny/FundMe)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Solidity Smart Contract Projects</b>
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
@@ -28,7 +33,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: 
+[linkedin]: http://www.linkedin.com/in/techdaryl
 
 
 
