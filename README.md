@@ -7,6 +7,8 @@
   - [FundMe](https://github.com/darylbonny/FundMe)
   
 - <b>Python</b>
+ 
+  - [Tkinter Maze](https://github.com/darylbonny/FundMe)
 
 <h2>🌱 I’m currently learning </h2>
 
