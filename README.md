@@ -5,8 +5,6 @@
 - <b>Solidity Smart Contracts</b>
   
   - [FundMe](https://github.com/darylbonny/FundMe)
-
-- <b>Solidity Smart Contract Projects</b>
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
