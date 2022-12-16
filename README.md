@@ -25,7 +25,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-![Linkedin](https://user-images.githubusercontent.com/21668683/208003734-b2beb0dd-8510-469e-801a-59d42abb9bc8.png)
 
 
 <!--
