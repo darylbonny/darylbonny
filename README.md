@@ -2,9 +2,9 @@
  
 <h2>👨‍💻 Software Development Projects:</h2>
  
-- <b>Solidity Smart Contracts</b>
+- <b>Solidity</b>
   
-  - [FundMe](https://github.com/darylbonny/FundMe)
+  - [FundMe Smart Contract](https://github.com/darylbonny/FundMe)
   
 - <b>Python</b>
  
