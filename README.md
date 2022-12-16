@@ -25,7 +25,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-![linkedin-5-32](https://user-images.githubusercontent.com/21668683/208006501-d0f369cb-049d-4ea9-b053-c190992135df.png)
+[<img align="left" alt="techdaryl | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/21668683/208006501-d0f369cb-049d-4ea9-b053-c190992135df.png" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/techdaryl
 
 
 <!--
