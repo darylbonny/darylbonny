@@ -6,8 +6,6 @@
   
   - [FundMe](https://github.com/darylbonny/FundMe)
   
-- <b>PowerShell</b>
-  
 - <b>Python</b>
 
 <h2>🌱 I’m currently learning </h2>
