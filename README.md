@@ -12,18 +12,18 @@
 
 <h2>🌱 I’m currently learning </h2>
 
-- <b>JavaScript</b>
+  - <b>JavaScript</b>
 
-- <b>HTML/CSS3</b>
+  - <b>HTML/CSS3</b>
 
-- <b>Java</b>
+  - <b>Java</b>
  
-- <b>AWS</b>
+  - <b>AWS</b>
  
 
 <h2>🔭 I’m currently working on</h2>
 
-- <b>CompTIA Security+ Certification</b>
+  - <b>CompTIA Security+ Certification</b>
 
 
 <h2> 🤳 Connect with me:</h2>
