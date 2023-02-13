@@ -14,13 +14,16 @@
 
 - <b>JavaScript</b>
 
-- <b/>HTML/CSS3</b>
+- <b>HTML/CSS3</b>
 
-- Java
+- <b>Java</b>
+ 
+- <b>AWS</b>
+ 
 
 <h2>🔭 I’m currently working on</h2>
 
-- <b>CompTIA Security + Certification</b>
+- <b>CompTIA Security+ Certification</b>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -30,10 +33,8 @@
 [linkedin]: https://linkedin.com/in/techdaryl
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -43,4 +44,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
