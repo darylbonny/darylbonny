@@ -26,6 +26,8 @@
 <h2>🔭 I’m currently working on</h2>
 
   - <b>CompTIA Security+ Certification</b>
+ 
+ - <b>My Photography Website</b>
 
 
 <h2> 🤳 Connect with me:</h2>
