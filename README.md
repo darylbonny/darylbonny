@@ -20,6 +20,8 @@
  
   - <b>AWS</b>
  
+ - <b>MySQL</b>
+ 
 
 <h2>🔭 I’m currently working on</h2>
 
@@ -44,4 +46,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
